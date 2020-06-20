@@ -1,7 +1,6 @@
 ![Matlab-based Codes]
 
-## HDL-IQA: hybrid dictionary learning for quality assessment of
-blurry images and compressed images
+## HDL-IQA: hybrid dictionary learning for quality assessment of blurry images and compressed images
 
 ### Usage
 
